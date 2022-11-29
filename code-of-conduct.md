@@ -1,19 +1,10 @@
 # Code of conduct
 
-<hr>
-
-<br />
-<br />
-
 ## Our pledge
-
-<hr>
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our collective and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our standards
-
-<hr>
 
 Examples of behavior that contributes to creating a positive environment include:
 
@@ -32,8 +23,6 @@ Examples of unacceptable behavior by participants include:
 - Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Reporting an incident
-
-<hr>
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the organizer by email (bruantleo@gmail.com), or by speaking to another GitHub contributor or a security officer.
 

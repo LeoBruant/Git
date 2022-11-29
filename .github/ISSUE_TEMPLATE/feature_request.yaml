@@ -1,10 +1,23 @@
 name: Feature request
-description: Missing functionality? Come tell us about it!
+description: This is a totally new project so obviously it need a lot of new feature. So please tell us what you think this project need !
 body:
   - type: textarea
-    id: description
     attributes:
       label: Description
-      description: What is the feature you want to see?
+      description: Tell us about this feature!
     validations:
       required: true
+  - type: textarea
+    attributes:
+      label: How ? 
+      description: Do you already have an idea of how to implement it ?
+    validations:
+      required: false
+  - type: dropdown
+    attributes:
+      label: How important is this feature ?
+      multiple: false
+      options:
+        - Not Important
+        - Important
+        - Really Important

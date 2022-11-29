@@ -35,6 +35,6 @@ Examples of unacceptable behavior by participants include:
 
 <hr>
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the organizer by email (events@github.com) or phone/text (+1 415 842 2837), or by speaking to another GitHub employee or a security officer.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the organizer by email (bruantleo@gmail.com), or by speaking to another GitHub contributor or a security officer.
 
 GitHubbers will be happy to help participants contact security or local law enforcement, escort to safety, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.

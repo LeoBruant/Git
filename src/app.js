@@ -1,9 +1,9 @@
 const express = require("express");
 const options = {
-  cors: {
-    origin: ["http://localhost:3000"],
-    methods: ["GET", "POST"],
-  },
+    cors: {
+        origin: ["http://localhost:3000"],
+        methods: ["GET", "POST"],
+    },
 };
 const app = express();
 const httpServer = require("http").createServer(app);
@@ -12,9 +12,9 @@ const port = 8000;
 console.log(io);
 
 app.get("/", (req, res) => {
-  res.send("Hello World!");
+    res.send("Hello World!");
 });
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`);
+    console.log(`Example app listening on port ${port}`);
 });

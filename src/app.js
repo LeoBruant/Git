@@ -15,6 +15,12 @@ app.get("/", (req, res) => {
     res.send("Hello World!");
 });
 
+app.get('/calcul', (req, res) => {
+  const a = 1
+    const b = 2
+    const result = a + b
+    res.send('The result is : ' + result)});
+
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`);
 });

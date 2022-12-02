@@ -41,3 +41,4 @@ jobs:
         with:
           commit_message: "[BOT]: Auto format"
           branch: ${{ github.head_ref }}
+          commit_options: "--signoff"

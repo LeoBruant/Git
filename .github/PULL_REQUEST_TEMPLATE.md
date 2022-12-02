@@ -1,4 +1,4 @@
-**What I did**
+**Tell us everything you made on this branch**
 
 **Related issue**
-<!-- If this is a bug fix, make sure your description includes "fixes #xxxx", or "closes #xxxx" -->
+<!--If this Pull Request is related to an issue, please put the ID here-->

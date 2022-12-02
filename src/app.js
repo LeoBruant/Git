@@ -12,7 +12,7 @@ const port = 8000;
 console.log(io);
 
 app.get("/", (req, res) => {
-    console.log("Hello")
+    console.log("Hello");
     res.send("Hello World!");
 });
 
